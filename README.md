@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Twitter][twitter-shield]][twitter-url]
-
 <img src="https://i.ibb.co/1Mck0mH/awesome-api-security-1.png" alt="Logo" align="right" width="330" height="330" />
 
 # Awesome API Security
@@ -18,31 +12,6 @@ It provides:
 - **Best practices, guidelines, and recommendations** for secure API design
 - **Community-driven contributions and updates** for continuous improvement
 - **Detailed explanations and use cases** for better understanding and application
-
-## API Security Learning Path
-
-| Month    | Week | Topic                                     | Resources                                                                                                     |
-|----------|------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Month 1  | 1    | Understanding APIs and their importance   | [What is an API?](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)          |
-|          |      |                                           | [RESTful API Design](https://restfulapi.net/)                                                               |
-|          | 2    | API Security Basics                       | [Why is API Security Important?](https://nordicapis.com/why-api-security-matters-more-than-ever/)           |
-|          |      |                                           | [API Security: Challenges and Solutions](https://www.cloudflare.com/learning/apis/what-is-api-security/)    |
-|          | 3    | Authentication and Authorization          | [Introduction to OAuth 2.0](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)     |
-|          |      |                                           | [Understanding JSON Web Tokens (JWT)](https://jwt.io/introduction/)                                         |
-|          | 4    | API Security Best Practices               | [10 API Security Best Practices](https://www.mulesoft.com/resources/api/api-security-best-practices)         |
-|          |      |                                           | [OWASP API Security Top 10](https://owasp.org/www-project-api-security/)                                    |
-| Month 2  | 5    | Rate Limiting and Throttling              | [Rate Limiting in APIs](https://www.keycdn.com/blog/api-rate-limiting)                                      |
-|          |      |                                           | [Throttling in APIs](https://www.redhat.com/en/topics/api/what-is-api-throttling)                           |
-|          | 6    | Input Validation and Sanitization         | [Input Validation for APIs](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)|
-|          |      |                                           | [Input Sanitization for APIs](https://cheatsheetseries.owasp.org/cheatsheets/Data_Validation_Cheat_Sheet.html)|
-|          | 7    | Transport Security                        | [Transport Security in APIs](https://www.freecodecamp.org/news/api-security-transport-security-ssl-tls-https/)|
-|          |      |                                           | [Using HTTPS for API Security](https://www.cloudflare.com/learning/ssl/why-use-https/)                      |
-|          | 8    | API Security Testing                      | [API Security Testing](https://www.soapui.org/learn/testing/security/)                                      |
-|          |      |                                           | [Top 10 API Security Testing Tools](https://www.appknox.com/blog/top-10-api-security-testing-tools)         |
-| Month 3  | 9    | Project 1 - Building a Secure RESTful API | [Tutorial: Build a Secure RESTful API](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)              |
-|          | 10   | Project 2 - Implementing OAuth 2.0 and JWT| [Tutorial: Implement OAuth 2.0 and JWT](https://auth0.com/docs/quickstart/backend/nodejs)                    |
-|          | 11   | Project 3 - API Security Audit            | [API Security Audit Checklist](https://www.proofsec.com/blog/api-security-audit-checklist)                   |
-|          |      |                                           | [Tutorial: API Security Audit](https://apimocha.com/blog/api-security-audit)                                |
 
 ## 📚 Books
 
@@ -144,49 +113,45 @@ It provides:
 | [API Documentation Security Checklist](https://www.stoplight.io/api-security-checklist)                                   | A checklist for ensuring the security of API documentation.                  |
 | [API Security Self-Assessment Checklist](https://www.axway.com/en/checklist/api-security)                                | A self-assessment checklist for evaluating your organization's API security. |
 
-## Articles 
-| **Title**                                                  | **Link**                                                                                                         | **Author**           | **Main Topics Covered**                     | **Summary**                                                                                                                                 |
-|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| The API Security Maturity Model                                    | [Link](https://nordicapis.com/the-api-security-maturity-model/)                                                  | Travis Spencer       | Maturity Model, API Security                | A comprehensive guide to understanding and implementing a maturity model for API security in an organization.                               |
-| Modern API Security Techniques                                     | [Link](https://dzone.com/articles/modern-api-security-techniques)                                                | Keshav Vasudevan     | API Security Techniques, Best Practices     | This article outlines various modern API security techniques and best practices to protect APIs from vulnerabilities and attacks.           |
-| Securing APIs: The OWASP API Security Top 10                       | [Link](https://snyk.io/blog/owasp-api-security-top-10/)                                                          | Liran Tal            | OWASP API Security Top 10                   | This article explains the OWASP API Security Top 10 list and provides insights into each item to help improve API security.                 |
-| A Comprehensive Guide to API Security                              | [Link](https://www.freecodecamp.org/news/a-comprehensive-guide-to-api-security/)                                 | Indira Rishi         | API Security, Authentication, Authorization | A detailed guide covering various aspects of API security, including authentication, authorization, and common threats.                     |
-| GraphQL API Security: Best Practices and Common Vulnerabilities    | [Link](https://www.apollographql.com/blog/graphql/security/graphql-api-security-best-practices/)                 | Khalil Stemmler      | GraphQL, API Security, Best Practices       | This article discusses the best practices and common vulnerabilities related to GraphQL API security.                                       |
-| Five Steps to API Security Enlightenment                           | [Link](https://www.securityweek.com/five-steps-api-security-enlightenment)                                       | Bernard Harguindeguy | API Security, Best Practices, Steps         | The article presents five steps to improve API security and highlights the importance of securing APIs in the modern application landscape. |
-| API Security: Deep Dive into OAuth and OpenID Connect              | [Link](https://auth0.com/resources/ebooks/api-security-oauth-openid-connect)                                     | Auth0                | OAuth, OpenID Connect, API Security         | This e-book dives deep into OAuth and OpenID Connect, explaining their roles in API security and providing practical implementation advice. |
-| Top 5 REST API Security Guidelines                                 | [Link](https://hackernoon.com/top-5-rest-api-security-guidelines-3a00e264c35d)                                   | Shekhar Gulati       | REST API Security, Guidelines               | This article provides five essential REST API security guidelines to follow when designing and implementing APIs.                           |
-| A Zero Trust Approach to API Security                              | [Link](https://www.apiscene.io/apis/zero-trust-approach-api-security/)                                           | Mark O'Neill         | Zero Trust, API Security                    | This article discusses the concept of Zero Trust in the context of API security and how it can help protect APIs against attacks.           |
-| API Security Checklist: Top 7 Requirements for Securing Your API   | [Link](https://www.cyberark.com/resources/blog/api-security-checklist-top-7-requirements-for-securing-your-api)  | CyberArk             | API Security, Checklist,                    | This article provides a comprehensive checklist for API security.                                                                           |
-| API Security for Microservices                                 | [Link](https://www.nginx.com/blog/api-security-for-microservices/)                                               | Chris Stetson        | Microservices, API Security                 | This article discusses the importance of API security in a microservices architecture and how to design secure APIs.                        |
-| API Security in a Serverless World                             | [Link](https://medium.com/swlh/api-security-in-a-serverless-world-47f0661c954e)                                  | Priyesh Patel        | API Security, Serverless                    | This article explores how to secure APIs in serverless architectures and outlines key considerations to enhance API security.               |
-| Best Practices for API Security                                | [Link](https://www.gartner.com/smarterwithgartner/best-practices-for-api-security/)                              | Gartner              | API Security, Best Practices                | Gartner's article provides a comprehensive list of best practices to follow when securing APIs in an organization.                          |
-| API Security: An Overview of Common Vulnerabilities            | [Link](https://www.upguard.com/blog/api-security-an-overview-of-common-vulnerabilities)                          | UpGuard              | API Security, Vulnerabilities               | This article covers common API vulnerabilities and provides guidance on how to prevent and mitigate these issues.                           |
-| 10 API Security Best Practices You Need to Know                | [Link](https://www.heavybit.com/library/blog/10-api-security-best-practices-you-need-to-know/)                   | Heavybit             | API Security, Best Practices                | The article lists 10 API security best practices that developers and organizations should follow to ensure the security of their APIs.      |
-| API Security and Open Banking: A Balancing Act                 | [Link](https://www.finextra.com/blogposting/16998/api-security-and-open-banking-a-balancing-act)                 | Jason Macy           | API Security, Open Banking                  | This article focuses on API security challenges and opportunities in the context of open banking and financial services.                    |
-| API Security Management: A Comprehensive Guide                 | [Link](https://www.ibm.com/cloud/learn/api-management/security)                                                  | IBM                  | API Security Management, Best Practices     | IBM's comprehensive guide provides an overview of API security management and includes best practices for securing APIs.                    |
-| API Gateway Security: Protecting Your APIs from Cyber Threats  | [Link](https://www.imperva.com/learn/application-security/api-gateway-security/)                                 | Imperva              | API Gateway Security, Threats               | This article discusses the role of API gateways in API security, and how they help protect APIs from various cyber threats.                 |
-| The Future of API Security: What to Expect in the Coming Years | [Link](https://www.programmableweb.com/news/future-api-security-what-to-expect-coming-years/analysis/2020/03/04) | ProgrammableWeb      | API Security, Future Trends                 | This article highlights the future trends in API security, exploring what organizations can expect and prepare for in the coming years.     |
-| API Security Testing: How to Ensure Your APIs Are Secure       | [Link](https://www.smartbear.com/learn/performance-monitoring/api-security-testing/)                             | SmartBear            | API Security testing                        | This article highlights API security testing essentials and how to build real world workflows.                                              |
+## 🛤 API Security Learning Path
 
-## Playlists
+| Month    | Week | Topic                                     | Resources                                                                                                     |
+|----------|------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Month 1  | 1    | Understanding APIs and their importance   | [What is an API?](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)          |
+|          |      |                                           | [RESTful API Design](https://restfulapi.net/)                                                               |
+|          | 2    | API Security Basics                       | [Why is API Security Important?](https://www.indusface.com/blog/what-is-api-security-and-why-is-it-important/)           |
+|          |      |                                           | [API Security: Challenges and Solutions](https://www.cloudflare.com/learning/security/api/what-is-api-security/)    |
+|          | 3    | Authentication and Authorization          | [Introduction to OAuth 2.0](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)     |
+|          |      |                                           | [Understanding JSON Web Tokens (JWT)](https://jwt.io/introduction/)                                         |
+|          | 4    | API Security Best Practices               | [API Security Best Practices](https://blogs.mulesoft.com/api-integration/api-security-threats-best-practices-solutions/)         |
+|          |      |                                           | [OWASP API Security Top 10](https://owasp.org/www-project-api-security/)                                    |
+| Month 2  | 5    | Rate Limiting and Throttling              | [Rate Limiting in APIs](https://www.cloudflare.com/learning/bots/what-is-rate-limiting/)                                      |
+|          |      |                                           | [Throttling in APIs](https://www.tibco.com/reference-center/what-is-api-throttling#:~:text=API%20throttling%20is%20the%20process,click%20triggers%20an%20API%20call.)                           |
+|          | 6    | Input Validation and Sanitization         | [Input Validation for APIs](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)|
+|          |      |                                           | [Input Sanitization for APIs](https://cheatsheetseries.owasp.org/cheatsheets/Data_Validation_Cheat_Sheet.html)|
+|          | 7    | Transport Security                        | [Transport Security in APIs](https://developer.okta.com/books/api-security/tls/)|
+|          |      |                                           | [Using HTTPS for API Security](https://www.cloudflare.com/learning/ssl/why-use-https/)                      |
+|          | 8    | API Security Testing                      | [API Security Testing](https://www.soapui.org/learn/security/)                                      |
+|          |      |                                           | [Top 10 API Security Testing Tools](https://www.techtarget.com/searchsecurity/tip/10-API-security-testing-tools-to-mitigate-risk)         |
+| Month 3  | 9    | Project 1 - Building a Secure RESTful API | [Tutorial: Build a Secure RESTful API](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)              |
+|          | 10   | Project 2 - Implementing OAuth 2.0 and JWT| [Tutorial: Implement OAuth 2.0 and JWT](https://auth0.com/docs/quickstart/backend/nodejs)                    |
+|          | 11   | Project 3 - API Security Audit            | [API Security Audit Checklist](https://github.com/shieldfy/API-Security-Checklist)                   |
 
-| **Playlist Name**                                 | **Link**                                                                          | **Author**          | **Summary of Playlist**                                                                                                     |
-|---------------------------------------------------|-----------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| API Security Best Practices                    | [Link](https://www.youtube.com/playlist?list=PLc1lIxtjxWnJrooQ2Ko-qyF9zy1GzzzjJd) | Nordic APIs         | A comprehensive playlist covering various API security best practices, vulnerabilities, and case studies.                   |
-| OWASP API Security Top 10                      | [Link](https://www.youtube.com/playlist?list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD)  | OWASP               | A playlist focused on the OWASP API Security Top 10, explaining each item in detail.                                        |
-| API Security with OAuth 2.0 and OpenID Connect | [Link](https://www.youtube.com/playlist?list=PLbi1gRlP7pijUwZJErzyYf_Rc-PW6Sv52)  | OktaDev             | A series of videos discussing OAuth 2.0 and OpenID Connect and their role in API security.                                  |
-| Securing APIs with JWT                         | [Link](https://www.youtube.com/playlist?list=PLG_MfUT2Q_tEUp8eGz54jZMw7T21T6Wc1)  | Traversy Media      | A playlist demonstrating how to secure APIs using JSON Web Tokens (JWT) in various programming languages.                   |
-| API Security and Management                    | [Link](https://www.youtube.com/playlist?list=PLzDOL_5g6UuV6KcXpM5r5y5x_Py5F7zQ8H) | IBM Developer       | This playlist focuses on API security and management, featuring best practices and expert advice.                           |
-| API Security for Microservices                 | [Link](https://www.youtube.com/playlist?list=PLyNBB9xK-_T_0wv8NUiW4M4Z4A4Zf2B1Y)  | Nginx               | A series of videos discussing the importance of API security in microservices architectures.                                |
-| REST API Security                              | [Link](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnEE) | Java Brains         | This playlist covers various aspects of REST API security, including authentication and authorization.                      |
-| GraphQL API Security                           | [Link](https://www.youtube.com/playlist?list=PLN3n1USn4xlkDk8vPVtgyGG3_1eXYPrW-/) | Ben Awad            | A playlist that explores GraphQL API security best practices, vulnerabilities, and case studies.                            |
-| API Security Testing                           | [Link](https://www.youtube.com/playlist?list=PLbjI3a8hQe1UXsGBxRvG0Wz8A4o4G_td4)  | SmartBear Software  | A playlist to explore API security testing.                                                                                 |
-| Secure API Development                        | [Link](https://www.youtube.com/playlist?list=PL2zVtX4GtOIDODVpJl8tY5a7S5w5Kuq3v_) | Microsoft Developer | A playlist that focuses on secure API development, including authentication, authorization, and best practices.             |
-| API Security with Spring Boot                 | [Link](https://www.youtube.com/playlist?list=PLRsbF2sD7JVq2JNNFdLKz8WQdG4XxN4GY7) | Spring Academy      | A series of videos on securing APIs using Spring Boot, covering various authentication and authorization techniques.        |
-| API Security with ASP.NET Core                | [Link](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)  | Les Jackson         | This playlist focuses on API security with ASP.NET Core, discussing authentication, authorization, and best practices.      |
-| API Security in Node.js                       | [Link](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G)  | Academind           | A playlist demonstrating how to secure APIs using Node.js, including authentication, authorization, and JWT implementation. |
-| API Gateway Security                          | [Link](https://www.youtube.com/playlist?list=PLRCCGFGVuFt1MgscifnPmHzbu_rR8Rm4O)  | Amazon Web Services | A series of videos discussing API Gateway security and how it helps protect APIs from various cyber threats.                |
-| API Security for Python Developers            | [Link](https://www.youtube.com/playlist?list=PLJRGQoqpRwdZ8k-4GzQ2eY3q9bMYF8YpS)  | Corey Schafer       | This playlist covers API security for Python developers, focusing on authentication, authorization, and best practices.     |
+## 🎥 Playlists
+
+| ****Playlist Name****              | ****Link****                                                                     |
+|------------------------------------|----------------------------------------------------------------------------------|
+| API Security: What & How?          | [Link](https://youtube.com/playlist?list=PLKUnjn-fSXRTy8sPPXGrNNBDPVOOi3U49)     |
+| Everything API Hacking             | [Link](https://youtube.com/playlist?list=PLbyncTkpno5HqX1h2MnV6Qt4wvTb8Mpol)     |
+| OWASP API Security Top 10          | [Link](https://www.youtube.com/playlist?list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD) |
+| API Security deep dive             | [Link](https://youtube.com/playlist?list=PLiUwrB-tuUUpJIQxo4qqHWKJBfFCTeqh9)     |
+| REST API Security                  | [Link](https://youtube.com/playlist?list=PLSId5Ee-5md9FdqzaLrnB30k7Z4YPjBAk)     |
+| API security                       | [Link](https://youtube.com/playlist?list=PL4HR6c9eR2yLnBYYwZqhwiV4rhRN1S8f5)     |
+| API Security 101: Talks            | [Link](https://youtube.com/playlist?list=PLwfL2EOOZ36weMxjo1Wk7bV4TFP08HBj9)     |
+| API Security in Microservice world | [Link](https://youtube.com/playlist?list=PLV47o9J4XHfmTL99nc2b4k-SPSVBF9MIq)     |
+| API Security essentials            | [Link](https://youtube.com/playlist?list=PL8IDSDRZxCCANEpMNtod31YOI1JpB30Qt)     |
+| Understanding OAuth & API security | [Link](https://youtube.com/playlist?list=PLxeJU39M7tLG1-3UAa1_90YgN9_1bDag4)     |
+
 
 
 ## 🤝 Contributing
