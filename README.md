@@ -1,9 +1,9 @@
 <img src="https://i.ibb.co/1Mck0mH/awesome-api-security-1.png" alt="Logo" align="right" width="330" height="330" />
 
-# Awesome API Security
+# Awesome API Security Essentials
 
 ## 🚀 About the Project
-As more applications rely on APIs for communication and data exchange, ensuring their security is crucial to prevent unauthorized access, data breaches, and service disruptions. The "Awesome API Security" project aims to be a one-stop resource for developers, providing them with everything they need to implement comprehensive API security measures. 
+As more applications rely on APIs for communication and data exchange, ensuring their security is crucial to prevent unauthorized access, data breaches, and service disruptions. The "Awesome API Security Essentials" project aims to be a one-stop resource for developers, providing them with everything they need to implement comprehensive API security measures. 
 
 It provides:
 
@@ -199,7 +199,7 @@ It provides:
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | [API Security Mind Map](https://dsopas.github.io/MindAPI/play/)                                                                                                                                                  | A visual representation of various API security concepts and best practices.                      |
 | [REST API Security Mind Map](https://www.mindmeister.com/555874413/rest-api)                                                                                                                                     | A mind map that covers key security aspects of RESTful APIs.                                      |
-| [OAuth 2.0 Mind Map](hhttps://luisfsgoncalves.wordpress.com/2016/06/26/oauth-2-0-mind-map/)                                                                                                                      | A visual representation of OAuth 2.0 concepts and components, which are crucial for API security. |
+| [OAuth 2.0 Mind Map](https://luisfsgoncalves.wordpress.com/2016/06/26/oauth-2-0-mind-map/)                                                                                                                      | A visual representation of OAuth 2.0 concepts and components, which are crucial for API security. |
 | [API Security Testing Mind Map](https://media-exp1.licdn.com/dms/document/C561FAQFMUiAa5fYPhg/feedshare-document-pdf-analyzed/0/1649057128703?e=2147483647&v=beta&t=2MXCYdO_Lpeq1vXOFgwr4exZT-gw16kAhaGG9ZapsH4) | A mind map that provides an overview of API security testing concepts and techniques.             |
 | [API Management Mind Map](https://media-exp1.licdn.com/dms/document/C561FAQFMUiAa5fYPhg/feedshare-document-pdf-analyzed/0/1649057128703?e=2147483647&v=beta&t=2MXCYdO_Lpeq1vXOFgwr4exZT-gw16kAhaGG9ZapsH4)       | A mind map covering various aspects of API management, including security considerations.         |
 | [Web Services Security Mind Map](https://github.com/nmmcon/MindMaps/blob/532ee4a6ecfad1c7df3cc186b0538477d9e838d8/WebApplicationVulnerabilities.png)                                                             | A mind map that delves into security aspects of web services, including APIs.                     |
@@ -227,10 +227,10 @@ It provides:
 
 
 ## 🤝 Contributing
-We welcome contributions from developers of all skill levels! Check out our [Contribution Guidelines](.github/CONTRIBUTING.md) to learn how you can contribute to *awesome-api-security*.
+We welcome contributions from developers of all skill levels! Check out our [Contribution Guidelines](.github/CONTRIBUTING.md) to learn how you can contribute to *awesome-api-security-essentials*.
 
 ## 📖 License
-Except as otherwise noted **awesome-api-security** is licensed under the *[Apache License, Version 2.0](/License)* .
+Except as otherwise noted **awesome-api-security-essentials** is licensed under the *[Apache License, Version 2.0](/License)* .
 
 ## 🌐 Join Our Community
 Connect with other **API Security** enthusiasts and contributors by joining our [discord community](https://discord.gg/NvXBX4Jd2v). Share your experiences, ask questions, and collaborate on this exciting project!
