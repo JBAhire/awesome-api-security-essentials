@@ -261,6 +261,7 @@ It provides:
 | [ZAP API Scan](https://www.zaproxy.org/docs/docker/api-scan/)                   | A ZAP add-on that automates API security scanning.                                             |
 | [RESTler](https://github.com/microsoft/restler-fuzzer)                          | Microsoft's open-source, stateful REST API fuzzer for automatically testing API security.      |
 | [GraphQL Shield](https://github.com/maticzav/graphql-shield)                    | A library for securing GraphQL APIs with fine-grained access control.                          |
+| [SchemaWatch](https://schemawatch.tuvia.nl)                                     | Monitor API schemas for breaking changes, validate OpenAPI specs, and get quality scores. Free tier: 3 APIs. ([Source Code](https://github.com/ovoWeb/tuvia)) |
 
 
 ## 🤝 Contributing
