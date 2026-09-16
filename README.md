@@ -261,6 +261,7 @@ It provides:
 | [ZAP API Scan](https://www.zaproxy.org/docs/docker/api-scan/)                   | A ZAP add-on that automates API security scanning.                                             |
 | [RESTler](https://github.com/microsoft/restler-fuzzer)                          | Microsoft's open-source, stateful REST API fuzzer for automatically testing API security.      |
 | [GraphQL Shield](https://github.com/maticzav/graphql-shield)                    | A library for securing GraphQL APIs with fine-grained access control.                          |
+| [HostDeFi](https://hostdefi.com)                                                   | Free token-safety scanner API grading tokens A+–F across Solana + 7 EVM chains (keyless, 100/day/IP). |
 
 
 ## 🤝 Contributing
