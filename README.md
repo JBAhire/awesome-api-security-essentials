@@ -261,6 +261,7 @@ It provides:
 | [ZAP API Scan](https://www.zaproxy.org/docs/docker/api-scan/)                   | A ZAP add-on that automates API security scanning.                                             |
 | [RESTler](https://github.com/microsoft/restler-fuzzer)                          | Microsoft's open-source, stateful REST API fuzzer for automatically testing API security.      |
 | [GraphQL Shield](https://github.com/maticzav/graphql-shield)                    | A library for securing GraphQL APIs with fine-grained access control.                          |
+| [WebDecoy Next.js Bot Traffic Monitor](https://github.com/WebDecoy/nextjs-bot-monitor) | Runnable App Router starter to verify request reporting. See the separate [API honeypot setup check](https://webdecoy.com/product/endpoints/) for hosted endpoint decoys. |
 
 
 ## 🤝 Contributing
